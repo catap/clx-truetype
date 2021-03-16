@@ -13,7 +13,8 @@
                #:cl-aa
                #:cl-fad
                #:cl-store
-               #:trivial-features)
+               #:trivial-features
+               #:cacle)
   :components ((:file "package")
                (:file "clx-utils")
                (:file "font-cache")
